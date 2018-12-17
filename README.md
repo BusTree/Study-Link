@@ -3,7 +3,7 @@ Today I Learned
 
 ## JavaScript
 
-- [우아한 자바스크립트 개발]:https://speakerdeck.com/nigayo/uahan-jabaseukeuribteu-gaebal
+- [우아한 자바스크립트 개발](https://speakerdeck.com/nigayo/uahan-jabaseukeuribteu-gaebal)
 
 - [Lodash]:https://lodash.com/
 
@@ -18,9 +18,13 @@ Today I Learned
 ## Vue.js
 
 - [express와 vue를 이용한 개발 환경 구성 살펴보기][http://vuejs.kr/2017/02/05/express-with-vue/]
+
 - [vue.js 공식가이드 문서][https://kr.vuejs.org/v2/guide/index.html]
+
 - [vue.js 가이드문서  기능별 검색][https://kr.vuejs.org/v2/guide/index.html]
-- [Vue-CLI 로 Vue.js 시작하기]:[https://medium.com/witinweb/vue-cli-%EB%A1%9C-vue-js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-browserify-webpack-22582202cd52]
+
+- [Vue-CLI 로 Vue.js 시작하기]:https://medium.com/witinweb/vue-cli-%EB%A1%9C-vue-js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-browserify-webpack-22582202cd52
+
 - [Vue.JS 2.0\] 소개 및 시작하기] :https://velopert.com/3007
 
 ## Node.js
