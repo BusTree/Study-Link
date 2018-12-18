@@ -1,5 +1,5 @@
-# Today I Learned
-Today I Learned
+# Study-Link
+2019년도 목표!!  / TIL에 전부 기록할 수 있도록 노력하자!!
 
 ## JavaScript
 
@@ -106,13 +106,6 @@ Today I Learned
 
 - [정규표현식(Regular Expression)을 소개합니다.](http://www.nextree.co.kr/p4327/)
 
-
-
 ## GitHub, 블로그
 
-[개발자를 위한 블로그 글쓰기](https://www.slideshare.net/zzsza/intro-102870757)
-
-
-
-
-
+- [개발자를 위한 블로그 글쓰기](https://www.slideshare.net/zzsza/intro-102870757)
