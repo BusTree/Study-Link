@@ -18,6 +18,7 @@
 - [변수로 자바스크립트 이해하기](http://yubylab.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B3%80%EC%88%98%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [자바스크립트의 콜백함수 이해하기](http://yubylab.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [자바스크립트 피로감을 줄여주기 위한 학습 계획](https://blog.rhostem.com/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/)
+- [자바스크립트의 스코프와 클로저](https://meetup.toast.com/posts/86)
 
 ## Vue.js
 
@@ -109,3 +110,34 @@
 ## GitHub, 블로그
 
 - [개발자를 위한 블로그 글쓰기](https://www.slideshare.net/zzsza/intro-102870757)
+
+## 개발자 로드맵
+
+- [훌륭한 JavaScript 개발자가 되는법](https://brunch.co.kr/@chiyodad/9)
+
+### 신기술과 방향성
+
+- [현대 웹의 주소와 미래](https://joshua1988.github.io/web-development/opinions/where-are-we-and-where-are-we-heading/)
+
+## 개발자분들 Git TIL 모음
+
+- [wayhome25](https://github.com/wayhome25)
+
+- [ksu3101](https://github.com/ksu3101)
+- [namjunemy](https://github.com/namjunemy)
+- [Integerous](https://github.com/Integerous)
+
+
+
+## PWA
+
+- [웹 프로젝트는 PWA이어야 한다](https://webactually.com/2017/09/%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94-pwa%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%9C%EB%8B%A41/)
+- [pwa 상용사이트 모음](https://www.pwastats.com/)
+
+## 저작권
+
+- [출처 표시 가이드](http://ccl.cckorea.org/reuse/source-display/)
+
+## FCM
+
+- [FCM, 웹앱(서비스워커) 으로 푸시 구현하기](https://medium.com/@sejongdekang/node-js-fcm-%EC%9B%B9%EC%95%B1-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9B%8C%EC%BB%A4-%EC%9C%BC%EB%A1%9C-%ED%91%B8%EC%8B%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-43c49b761dba)
