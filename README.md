@@ -36,6 +36,7 @@
 - [Node on Sails](http://mobicon.tistory.com/321)
 - [Node.js: 비동기 프로그래밍 이해](http://www.nextree.co.kr/p7292/)
 - [Sails.js](https://sailsjs.com/)
+- [NODEJS로 구현한 서비스를 CAFE24 웹 호스팅에 적용하기](http://www.itpaper.co.kr/nodejs%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-cafe24-%EC%9B%B9-%ED%98%B8%EC%8A%A4%ED%8C%85%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 
 ## Java
 
@@ -141,3 +142,11 @@
 ## FCM
 
 - [FCM, 웹앱(서비스워커) 으로 푸시 구현하기](https://medium.com/@sejongdekang/node-js-fcm-%EC%9B%B9%EC%95%B1-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9B%8C%EC%BB%A4-%EC%9C%BC%EB%A1%9C-%ED%91%B8%EC%8B%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-43c49b761dba)
+
+
+
+## UX / UI
+
+- [모바일을 위한 UX디자인 - 하단내비게이션](https://brunch.co.kr/@blackindigo-red/6)
+- [카카오 오븐](https://ovenapp.io/)
+- [모바일 내비게이션의 기본 패턴](https://blogs.adobe.com/creativedialogue/ko/design-ko/basic-patterns-of-mobile-navigation/)
