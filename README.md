@@ -115,6 +115,7 @@
 ## 개발자 로드맵
 
 - [훌륭한 JavaScript 개발자가 되는법](https://brunch.co.kr/@chiyodad/9)
+- [2019년 웹/앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
 
 ### 신기술과 방향성
 
