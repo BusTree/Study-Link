@@ -29,6 +29,7 @@
 - [Vue.JS 2.0\] 소개 및 시작하기](https://velopert.com/3007)
 - [Vue.js 입문서 - 프론트엔드 개발자를 위한](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [VueJs 빠른시작 - Todo 만들기](https://blog.storyg.co/vue-js-posts/todos-tutorial)
+- [Vue.js MeetUp](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
 
 
 ## Node.js
