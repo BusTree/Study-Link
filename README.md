@@ -66,6 +66,7 @@
 
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
 - [Developer 이규한의 포트폴리오입니다](https://weaklion.github.io/React-PortFolio/)
+- [Daily 개발자  2018 회고](https://wnsgml972.github.io/log/Retrospective_2018.html)
 
 ## Git
 
