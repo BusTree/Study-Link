@@ -42,6 +42,7 @@
 ## Java
 
 - [단계별로 프로젝트를 진행하면서 자바 프로그래밍의 기술을 익히기](https://github.com/eomcs/eomcs-java-project)
+- [멀티쓰레드 싱글턴 대체 enum](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
 
 ## Spring
 ## ProC
@@ -89,7 +90,6 @@
 - [Hexo 배포 원리와 백업하기](https://futurecreator.github.io/2018/07/18/hexo-blog-backup/)
 - [이카루스](https://blog.zhangruipeng.me/hexo-theme-icarus/)
 - [overside](https://github.com/HyunSeob/hexo-theme-overdose)
-- 
 
 ## WebPack
 
