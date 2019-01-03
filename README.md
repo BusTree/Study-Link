@@ -19,6 +19,8 @@
 - [자바스크립트의 콜백함수 이해하기](http://yubylab.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [자바스크립트 피로감을 줄여주기 위한 학습 계획](https://blog.rhostem.com/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/)
 - [자바스크립트의 스코프와 클로저](https://meetup.toast.com/posts/86)
+- https://bestofjs.org/
+- https://2018.stateofjs.com/front-end-frameworks/overview/
 
 ## Vue.js
 
