@@ -69,6 +69,7 @@
 - [Developer 이규한의 포트폴리오입니다](https://weaklion.github.io/React-PortFolio/)
 - [Daily 개발자  2018 회고](https://wnsgml972.github.io/log/Retrospective_2018.html)
 - [Rinae's 개발자 2018 회고](https://adhrinae.github.io/posts/retrospective-2018)
+- [이현섭 개발자 이력서](https://hyunseob.github.io/resume/)
 
 ## Git
 
@@ -128,10 +129,10 @@
 ## 개발자분들 Git TIL 모음
 
 - [wayhome25](https://github.com/wayhome25)
-
 - [ksu3101](https://github.com/ksu3101)
 - [namjunemy](https://github.com/namjunemy)
 - [Integerous](https://github.com/Integerous)
+- [이현섭 개발자](https://github.com/HyunSeob)
 
 
 
