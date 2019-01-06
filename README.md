@@ -54,8 +54,8 @@
 ## Debugging
 
 - [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
-
 - [IntelliJ 디버깅](https://jojoldu.tistory.com/149)
+- [크롬 개발자 도구 10](https://lqez.github.io/blog/chrome-dev-tool-101.html)
 
 ## C Programming
 
