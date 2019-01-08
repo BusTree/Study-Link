@@ -72,6 +72,7 @@
 - [Daily 개발자  2018 회고](https://wnsgml972.github.io/log/Retrospective_2018.html)
 - [Rinae's 개발자 2018 회고](https://adhrinae.github.io/posts/retrospective-2018)
 - [이현섭 개발자 이력서](https://hyunseob.github.io/resume/)
+- [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
 
 ## Git
 
