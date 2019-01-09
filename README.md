@@ -32,6 +32,8 @@
 - [Vue.js 입문서 - 프론트엔드 개발자를 위한](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [VueJs 빠른시작 - Todo 만들기](https://blog.storyg.co/vue-js-posts/todos-tutorial)
 - [Vue.js MeetUp](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
+- [2019년에는 Vue.js를 배워야 하는 3가지 이유](http://leagueoflegend.tistory.com/49)
+- [프론트앤드 프레임워크 이야기](https://brunch.co.kr/@withfpp/1)
 
 
 ## Node.js
@@ -73,6 +75,7 @@
 - [Rinae's 개발자 2018 회고](https://adhrinae.github.io/posts/retrospective-2018)
 - [이현섭 개발자 이력서](https://hyunseob.github.io/resume/)
 - [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
+- [내 마음대로 선정한 프로그래머 필독서 50선](http://blog.weirdx.io/post/55893)
 
 ## Git
 
@@ -166,6 +169,8 @@
 ## tool
 
 [인텔리J 활용 꿀팁 42가지 정리](https://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
+
+[Vim에 매료되다](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
 
 ## 인프라
 
