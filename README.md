@@ -21,7 +21,11 @@
 - [자바스크립트의 스코프와 클로저](https://meetup.toast.com/posts/86)
 - https://bestofjs.org/
 - https://2018.stateofjs.com/front-end-frameworks/overview/
+<<<<<<< HEAD
 - [GET과 POST의 차이](https://blog.outsider.ne.kr/312#footnote_312_1)
+=======
+- [비동기적 Javascript – 싱글스레드 기반 JS의 비동기 처리 방법](https://hudi.kr/%EB%B9%84%EB%8F%99%EA%B8%B0%EC%A0%81-javascript-%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C-%EA%B8%B0%EB%B0%98-js%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95/)
+>>>>>>> 5389e1d35f4a6ba1c310fa34ca58ca5bd0a7eeed
 
 ## Vue.js
 
@@ -33,6 +37,8 @@
 - [Vue.js 입문서 - 프론트엔드 개발자를 위한](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [VueJs 빠른시작 - Todo 만들기](https://blog.storyg.co/vue-js-posts/todos-tutorial)
 - [Vue.js MeetUp](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
+- [2019년에는 Vue.js를 배워야 하는 3가지 이유](http://leagueoflegend.tistory.com/49)
+- [프론트앤드 프레임워크 이야기](https://brunch.co.kr/@withfpp/1)
 
 
 ## Node.js
@@ -55,8 +61,8 @@
 ## Debugging
 
 - [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
-
 - [IntelliJ 디버깅](https://jojoldu.tistory.com/149)
+- [크롬 개발자 도구 10](https://lqez.github.io/blog/chrome-dev-tool-101.html)
 
 ## C Programming
 
@@ -73,6 +79,8 @@
 - [Daily 개발자  2018 회고](https://wnsgml972.github.io/log/Retrospective_2018.html)
 - [Rinae's 개발자 2018 회고](https://adhrinae.github.io/posts/retrospective-2018)
 - [이현섭 개발자 이력서](https://hyunseob.github.io/resume/)
+- [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
+- [내 마음대로 선정한 프로그래머 필독서 50선](http://blog.weirdx.io/post/55893)
 
 ## Git
 
@@ -130,6 +138,7 @@
 ### 신기술과 방향성
 
 - [현대 웹의 주소와 미래](https://joshua1988.github.io/web-development/opinions/where-are-we-and-where-are-we-heading/)
+- [2019년 웹/앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
 
 ## 개발자분들 Git TIL 모음
 
@@ -165,3 +174,9 @@
 ## tool
 
 [인텔리J 활용 꿀팁 42가지 정리](https://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
+
+[Vim에 매료되다](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
+
+## 인프라
+
+[개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR00_dC1HaCSA3PfvtRpopsJp0rT9Z3km9kKKDYYvLEZHsSYssinZAxhV5E)
