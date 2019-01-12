@@ -21,6 +21,7 @@
 - [자바스크립트의 스코프와 클로저](https://meetup.toast.com/posts/86)
 - https://bestofjs.org/
 - https://2018.stateofjs.com/front-end-frameworks/overview/
+- [GET과 POST의 차이](https://blog.outsider.ne.kr/312#footnote_312_1)
 
 ## Vue.js
 
