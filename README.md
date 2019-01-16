@@ -21,8 +21,8 @@
 - [자바스크립트의 스코프와 클로저](https://meetup.toast.com/posts/86)
 - https://bestofjs.org/
 - https://2018.stateofjs.com/front-end-frameworks/overview/
+- [GET과 POST의 차이](https://blog.outsider.ne.kr/312#footnote_312_1)
 - [비동기적 Javascript – 싱글스레드 기반 JS의 비동기 처리 방법](https://hudi.kr/%EB%B9%84%EB%8F%99%EA%B8%B0%EC%A0%81-javascript-%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C-%EA%B8%B0%EB%B0%98-js%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95/)
-
 ## Vue.js
 
 - [express와 vue를 이용한 개발 환경 구성 살펴보기](http://vuejs.kr/2017/02/05/express-with-vue/)
@@ -107,7 +107,9 @@
 
 ## Docker
 
-[초보를 위한 도커 안내서 - 도커란 무엇인가? ](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+- [초보를 위한 도커 안내서 - 도커란 무엇인가? ](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+
+- [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 
 ## 웹 퍼블리싱
 
@@ -177,3 +179,11 @@
 
 [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR00_dC1HaCSA3PfvtRpopsJp0rT9Z3km9kKKDYYvLEZHsSYssinZAxhV5E)
 
+<<<<<<< HEAD
+=======
+
+
+## 기타
+
+- [RESTful API 설계 및 Tips](https://brunch.co.kr/@springboot/59)
+>>>>>>> 323d29e5834e4580f6437b9e97c8123543ce8a34
