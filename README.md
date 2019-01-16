@@ -179,11 +179,19 @@
 
 [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR00_dC1HaCSA3PfvtRpopsJp0rT9Z3km9kKKDYYvLEZHsSYssinZAxhV5E)
 
-<<<<<<< HEAD
-=======
+
 
 
 ## 기타
 
 - [RESTful API 설계 및 Tips](https://brunch.co.kr/@springboot/59)
->>>>>>> 323d29e5834e4580f6437b9e97c8123543ce8a34
+
+
+
+## SEO 최적화
+
+- [검색 엔진 최적화(SEO)에 유용한 Hexo 플러그인](https://futurecreator.github.io/2016/06/23/search-engine-optimization-hexo-plugins/)
+- [Hexo SEO - 하루 만에 검색 엔진 최적화 시키기](https://iseongho.github.io/posts/hexo-seo/)
+- [Github + Hexo 검색 엔진 최적화 (SEO)](https://enchoyism.github.io/2018/01/02/github-hexo-seo/)
+- [Hexo Plugin을 이용 SEO 설정](http://loenoh.cf/2018/01/25/hexo-plugin-seo/)
+
