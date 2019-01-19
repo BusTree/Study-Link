@@ -185,6 +185,7 @@
 ## 기타
 
 - [RESTful API 설계 및 Tips](https://brunch.co.kr/@springboot/59)
+- [**한국 프로그래밍 언어 순위 2018**](https://medium.com/supple/korea-programming-language-rankings-2018-975241270a7a)
 
 
 
