@@ -23,6 +23,8 @@
 - https://2018.stateofjs.com/front-end-frameworks/overview/
 - [GET과 POST의 차이](https://blog.outsider.ne.kr/312#footnote_312_1)
 - [비동기적 Javascript – 싱글스레드 기반 JS의 비동기 처리 방법](https://hudi.kr/%EB%B9%84%EB%8F%99%EA%B8%B0%EC%A0%81-javascript-%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C-%EA%B8%B0%EB%B0%98-js%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95/)
+- [한글 인코딩과 자바스크립트](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
+- [자바스크립트 호출 스택(Call Stack) 이해하기](http://new93helloworld.tistory.com/358)
 ## Vue.js
 
 - [express와 vue를 이용한 개발 환경 구성 살펴보기](http://vuejs.kr/2017/02/05/express-with-vue/)
