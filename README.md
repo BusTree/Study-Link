@@ -188,6 +188,7 @@
 
 - [RESTful API 설계 및 Tips](https://brunch.co.kr/@springboot/59)
 - [**한국 프로그래밍 언어 순위 2018**](https://medium.com/supple/korea-programming-language-rankings-2018-975241270a7a)
+- [개발자가 깨달은 스트레스 없는 직장생활에 대하여](https://ppss.kr/archives/149593?fbclid=IwAR2TtxPehHEkDHgYxwio4sJikzKBnqm4G4w4NoOfF-vNS7wVKgP4VfHa2Sg)
 
 
 
