@@ -26,6 +26,7 @@
 - [한글 인코딩과 자바스크립트](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
 - [자바스크립트 호출 스택(Call Stack) 이해하기](http://new93helloworld.tistory.com/358)
 - [프론트엔드 개발자 인터뷰 후기 (면접 질문 정리)](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
+- [자바스크립트 비동기 처리 과정](http://sculove.github.io/blog/2018/01/18/javascriptflow/?fbclid=IwAR03nU0f972Hc23sSlxf9cjSBnlQrtXrC_WTyEOoNZNLdWSGfyYf2RCuAEA)
 ## Vue.js
 
 - [express와 vue를 이용한 개발 환경 구성 살펴보기](http://vuejs.kr/2017/02/05/express-with-vue/)
