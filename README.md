@@ -206,3 +206,11 @@
 
 [flexbox로 만들 수 있는 10가지 레이아웃](https://wit.nts-corp.com/2018/07/27/5274)
 
+[Grid layout을 만드는 몇 가지 기술들](http://www.usefulparadigm.com/2017/03/31/a-few-ways-to-make-a-grid-layout/)
+
+[CSS / 표(table) 꾸미기 / 테두리 만들기](https://www.codingfactory.net/10510)
+
+[display 속성](https://ofcourse.kr/css-course/display-%EC%86%8D%EC%84%B1)
+
+
+
