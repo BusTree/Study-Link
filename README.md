@@ -135,6 +135,7 @@
 - [훌륭한 JavaScript 개발자가 되는법](https://brunch.co.kr/@chiyodad/9)
 - [2019년 웹/앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
 - [2018년 웹 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap?fbclid=IwAR3ancX8qxddoUHJOVRSAnaWzCoGIqDpWYS54ooCGYc_378Dm_V-bZ86B48)
+- [2019년 웹 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap)
 - [프론트앤드 개발자 기초학습](https://poiemaweb.com/)
 - [대학생을 위한 웹 개발 공부용 체크리스트](https://xguru.net/1897)
 
