@@ -29,6 +29,7 @@
 - [자바스크립트 비동기 처리 과정](http://sculove.github.io/blog/2018/01/18/javascriptflow/?fbclid=IwAR03nU0f972Hc23sSlxf9cjSBnlQrtXrC_WTyEOoNZNLdWSGfyYf2RCuAEA)
 - [JavaScript 코드 리뷰 - 코드 리뷰 문화](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
 - [Electron으로 데스크톱 앱을 개발한 경험](https://blog.outsider.ne.kr/1422)
+- [함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD)
 ## Vue.js
 
 - [express와 vue를 이용한 개발 환경 구성 살펴보기](http://vuejs.kr/2017/02/05/express-with-vue/)
