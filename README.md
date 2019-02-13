@@ -85,6 +85,7 @@
 - [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
 - [내 마음대로 선정한 프로그래머 필독서 50선](http://blog.weirdx.io/post/55893)
 - [4년차로 접어든 웹 개발자의 3년차 늦은 회고](http://blog.kingbbode.com/posts/who-am-i-3)
+- [2019 개발자 설문](https://programmers.co.kr/pages/dev-survey-2019 )
 
 ## Git
 
