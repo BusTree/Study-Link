@@ -138,7 +138,6 @@
 
 - [훌륭한 JavaScript 개발자가 되는법](https://brunch.co.kr/@chiyodad/9)
 - [2019년 웹/앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
-- [2018년 웹 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap?fbclid=IwAR3ancX8qxddoUHJOVRSAnaWzCoGIqDpWYS54ooCGYc_378Dm_V-bZ86B48)
 - [2019년 웹 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap)
 - [프론트앤드 개발자 기초학습](https://poiemaweb.com/)
 - [대학생을 위한 웹 개발 공부용 체크리스트](https://xguru.net/1897)
@@ -226,4 +225,12 @@
 [Flexbox 이해: 당신이 알아야 할 모든 것](https://www.vobour.com/1-flexbox-%EC%9D%B4%ED%95%B4-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%AA%A8%EB%93%A0-%EA%B2%83-understa)
 
 [ 5분 안에 Flexbox 배우기](https://www.vobour.com/-%EB%94%94%EC%9E%90%EC%9D%B8-5%EB%B6%84-%EC%95%88%EC%97%90-flexbox-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
+
+
+
+## 파이썬
+
+### 웹 크롤링
+
+- [나만의 웹 크롤러 만들기](https://beomi.github.io/gb-crawling/)
 
