@@ -234,3 +234,6 @@
 
 - [나만의 웹 크롤러 만들기](https://beomi.github.io/gb-crawling/)
 
+## 아키텍쳐
+
+[웹 아키텍쳐 입문](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101?fbclid=IwAR2chRekA4YHcae-Ir8Ytoy1XysTlGYRze1DNUvA8UQnC7twq_i15Yvj7oM)
