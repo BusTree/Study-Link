@@ -243,3 +243,14 @@
 ## 아키텍쳐
 
 [웹 아키텍쳐 입문](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101?fbclid=IwAR2chRekA4YHcae-Ir8Ytoy1XysTlGYRze1DNUvA8UQnC7twq_i15Yvj7oM)
+
+
+
+## React
+
+[react-native 사이드프로젝트. 보름만에 iOS, 안드로이드 앱 출시하기](https://blog.holy.kiwi/js/190127/)
+
+## 보안
+
+[HTTP와 SSL에 대한 기본 개념 및 통신과정](https://aileen93.tistory.com/m/119)
+
