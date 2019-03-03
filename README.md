@@ -239,6 +239,7 @@
 ### 웹 크롤링
 
 - [나만의 웹 크롤러 만들기](https://beomi.github.io/gb-crawling/)
+- [봇 탐지 우회하기](http://blog.naver.com/PostView.nhn?blogId=shino1025&logNo=221281151358&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
 
 ## 아키텍쳐
 
