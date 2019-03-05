@@ -240,6 +240,10 @@
 
 - [나만의 웹 크롤러 만들기](https://beomi.github.io/gb-crawling/)
 - [봇 탐지 우회하기](http://blog.naver.com/PostView.nhn?blogId=shino1025&logNo=221281151358&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
+- [문과생도 할 수 있는 웹 크롤링](https://sacko.tistory.com/12)
+- https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/
+- [Selenium을 활용한 크롤러 제작 후기](https://medium.com/@peteryun/python-selenium%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-b055cefd1195)
+- 
 
 ## 아키텍쳐
 
@@ -254,4 +258,18 @@
 ## 보안
 
 [HTTP와 SSL에 대한 기본 개념 및 통신과정](https://aileen93.tistory.com/m/119)
+
+
+
+## 머신러닝
+
+[머신 러닝(Machine Learning)에 대한 이해](https://gracefulprograming.tistory.com/103)
+
+[머신러닝 쿠키런](https://www.youtube.com/watch?v=exXD6wJLJ6s)
+
+[K리그 승패예측](https://www.youtube.com/watch?v=x0UaIMaCSrU)
+
+
+
+
 
