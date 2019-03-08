@@ -244,7 +244,7 @@
 - [문과생도 할 수 있는 웹 크롤링](https://sacko.tistory.com/12)
 - https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/
 - [Selenium을 활용한 크롤러 제작 후기](https://medium.com/@peteryun/python-selenium%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-b055cefd1195)
-- 
+- [구글 맞춤 검색 API 사용법](https://dol2156.tistory.com/392)
 
 ## 아키텍쳐
 
