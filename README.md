@@ -250,6 +250,8 @@
 
 [웹 아키텍쳐 입문](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101?fbclid=IwAR2chRekA4YHcae-Ir8Ytoy1XysTlGYRze1DNUvA8UQnC7twq_i15Yvj7oM)
 
+[확장하기 쉬운 코드가 아니라 삭제하기 쉬운 코드를 작성하자](https://harfangk.github.io/2016/10/30/write-code-that-is-easy-to-delete-not-easy-to-extend-ko.html)
+
 
 
 ## React
