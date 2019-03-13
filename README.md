@@ -43,6 +43,7 @@
 - [Vue.js MeetUp](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
 - [2019년에는 Vue.js를 배워야 하는 3가지 이유](http://leagueoflegend.tistory.com/49)
 - [프론트앤드 프레임워크 이야기](https://brunch.co.kr/@withfpp/1)
+- [Vuejs로 모바일 웹 구축하기](https://zuminternet.github.io/ZUM-Pilot-vuejs/)
 
 
 ## Node.js
