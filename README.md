@@ -265,6 +265,10 @@
 
 [react-native 사이드프로젝트. 보름만에 iOS, 안드로이드 앱 출시하기](https://blog.holy.kiwi/js/190127/)
 
+[최신 트렌드의 Electron 과React 그리고 Webpack 으로 만드는멀티플랫폼 데스크톱 앱!](http://playnode.io/2016/slides/electron-react-webpack.pdf)
+
+
+
 ## 보안
 
 [HTTP와 SSL에 대한 기본 개념 및 통신과정](https://aileen93.tistory.com/m/119)
