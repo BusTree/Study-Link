@@ -89,6 +89,7 @@
 - [내 마음대로 선정한 프로그래머 필독서 50선](http://blog.weirdx.io/post/55893)
 - [4년차로 접어든 웹 개발자의 3년차 늦은 회고](http://blog.kingbbode.com/posts/who-am-i-3)
 - [2019 개발자 설문](https://programmers.co.kr/pages/dev-survey-2019 )
+- [개발자로 압박을 덜 받으려면 어떻게 해야하는가?](https://brunch.co.kr/@jowlee/71)
 
 ## Git
 
@@ -126,6 +127,8 @@
 ## 웹 퍼블리싱
 
 ## 알고리즘
+
+- [수학인듯 과학아닌 공학같은 컴퓨터과학/알고리즘 기초](https://librewiki.net/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%88%98%ED%95%99%EC%9D%B8%EB%93%AF_%EA%B3%BC%ED%95%99%EC%95%84%EB%8B%8C_%EA%B3%B5%ED%95%99%EA%B0%99%EC%9D%80_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B8%B0%EC%B4%88)
 
 ## 자료구조
 
@@ -256,6 +259,8 @@
 [확장하기 쉬운 코드가 아니라 삭제하기 쉬운 코드를 작성하자](https://harfangk.github.io/2016/10/30/write-code-that-is-easy-to-delete-not-easy-to-extend-ko.html)
 
 [생각하라, 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html)
+
+[CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
 
 
 
