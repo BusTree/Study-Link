@@ -90,6 +90,7 @@
 - [4년차로 접어든 웹 개발자의 3년차 늦은 회고](http://blog.kingbbode.com/posts/who-am-i-3)
 - [2019 개발자 설문](https://programmers.co.kr/pages/dev-survey-2019 )
 - [개발자로 압박을 덜 받으려면 어떻게 해야하는가?](https://brunch.co.kr/@jowlee/71)
+- [이뤄지는 꿈의특징](https://brunch.co.kr/@skykamja24/229)
 
 ## Git
 
