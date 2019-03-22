@@ -149,6 +149,7 @@
 - [프론트앤드 개발자 기초학습](https://poiemaweb.com/)
 - [대학생을 위한 웹 개발 공부용 체크리스트](https://xguru.net/1897)
 - [Learning Paths](https://poiemaweb.com/)
+- [카카오헤어샵 개발후기](https://brunch.co.kr/@cg4jins/1)
 
 ### 신기술과 방향성
 
