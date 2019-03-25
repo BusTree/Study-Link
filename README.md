@@ -60,6 +60,11 @@
 - [멀티쓰레드 싱글턴 대체 enum](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
 
 ## Spring
+
+[전자정부 프레임워크 강의자료](<http://www.egovframe.go.kr/cop/bbs/selectBoardArticle.do?nttId=1569&bbsId=BBSMSTR_000000000004&menu=4>)
+
+[전자정부 프레임워크 DOC](<http://www.egovframe.go.kr/wiki/doku.php?id=egovframework:%EA%B3%B5%ED%86%B5%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EA%B0%80%EC%9D%B4%EB%93%9C>)
+
 ## ProC
 
 - [ProC 소개와 기본 특징](https://12bme.tistory.com/247)
