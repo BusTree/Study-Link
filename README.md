@@ -96,6 +96,7 @@
 - [2019 개발자 설문](https://programmers.co.kr/pages/dev-survey-2019 )
 - [개발자로 압박을 덜 받으려면 어떻게 해야하는가?](https://brunch.co.kr/@jowlee/71)
 - [이뤄지는 꿈의특징](https://brunch.co.kr/@skykamja24/229)
+- [병아리개발자 2018 회고](<https://ideveloper2.tistory.com/165>)
 
 ## Git
 
@@ -300,6 +301,14 @@
 ## 통신프로토퀄
 
 [프런트엔드 개발자가 알아야하는 HTTP 프로토콜](https://joshua1988.github.io/web-development/http-part1/#http-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%B4%EB%9E%80)
+
+
+
+## 강좌
+
+[NAVER 부스트코스(웹프로그래밍)](<https://www.edwith.org/boostcourse-web>)
+
+[elice](<https://www.edwith.org/boostcourse-web>)
 
 
 
