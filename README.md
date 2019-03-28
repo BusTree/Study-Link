@@ -60,6 +60,11 @@
 - [멀티쓰레드 싱글턴 대체 enum](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
 
 ## Spring
+
+[전자정부 프레임워크 강의자료](<http://www.egovframe.go.kr/cop/bbs/selectBoardArticle.do?nttId=1569&bbsId=BBSMSTR_000000000004&menu=4>)
+
+[전자정부 프레임워크 DOC](<http://www.egovframe.go.kr/wiki/doku.php?id=egovframework:%EA%B3%B5%ED%86%B5%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EA%B0%80%EC%9D%B4%EB%93%9C>)
+
 ## ProC
 
 - [ProC 소개와 기본 특징](https://12bme.tistory.com/247)
@@ -89,6 +94,9 @@
 - [내 마음대로 선정한 프로그래머 필독서 50선](http://blog.weirdx.io/post/55893)
 - [4년차로 접어든 웹 개발자의 3년차 늦은 회고](http://blog.kingbbode.com/posts/who-am-i-3)
 - [2019 개발자 설문](https://programmers.co.kr/pages/dev-survey-2019 )
+- [개발자로 압박을 덜 받으려면 어떻게 해야하는가?](https://brunch.co.kr/@jowlee/71)
+- [이뤄지는 꿈의특징](https://brunch.co.kr/@skykamja24/229)
+- [병아리개발자 2018 회고](<https://ideveloper2.tistory.com/165>)
 
 ## Git
 
@@ -127,6 +135,8 @@
 
 ## 알고리즘
 
+- [수학인듯 과학아닌 공학같은 컴퓨터과학/알고리즘 기초](https://librewiki.net/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%88%98%ED%95%99%EC%9D%B8%EB%93%AF_%EA%B3%BC%ED%95%99%EC%95%84%EB%8B%8C_%EA%B3%B5%ED%95%99%EA%B0%99%EC%9D%80_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B8%B0%EC%B4%88)
+
 ## 자료구조
 
 ## 정규표현식
@@ -145,6 +155,7 @@
 - [프론트앤드 개발자 기초학습](https://poiemaweb.com/)
 - [대학생을 위한 웹 개발 공부용 체크리스트](https://xguru.net/1897)
 - [Learning Paths](https://poiemaweb.com/)
+- [카카오헤어샵 개발후기](https://brunch.co.kr/@cg4jins/1)
 
 ### 신기술과 방향성
 
@@ -258,6 +269,8 @@
 
 [생각하라, 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html)
 
+[CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
+
 
 
 
@@ -289,6 +302,14 @@
 ## 통신프로토퀄
 
 [프런트엔드 개발자가 알아야하는 HTTP 프로토콜](https://joshua1988.github.io/web-development/http-part1/#http-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%B4%EB%9E%80)
+
+
+
+## 강좌
+
+[NAVER 부스트코스(웹프로그래밍)](<https://www.edwith.org/boostcourse-web>)
+
+[elice](<https://www.edwith.org/boostcourse-web>)
 
 
 
