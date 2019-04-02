@@ -161,6 +161,7 @@
 
 - [현대 웹의 주소와 미래](https://joshua1988.github.io/web-development/opinions/where-are-we-and-where-are-we-heading/)
 - [2019년 웹/앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
+- [최신 브라우저의 내부 살펴보기](https://d2.naver.com/helloworld/9274593)
 
 ## 개발자분들 Git TIL 모음
 
