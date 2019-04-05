@@ -53,11 +53,13 @@
 - [Node.js: 비동기 프로그래밍 이해](http://www.nextree.co.kr/p7292/)
 - [Sails.js](https://sailsjs.com/)
 - [NODEJS로 구현한 서비스를 CAFE24 웹 호스팅에 적용하기](http://www.itpaper.co.kr/nodejs%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-cafe24-%EC%9B%B9-%ED%98%B8%EC%8A%A4%ED%8C%85%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
+- [nodejs의 내부 동작 원리](<https://sjh836.tistory.com/149>)
 
 ## Java
 
 - [단계별로 프로젝트를 진행하면서 자바 프로그래밍의 기술을 익히기](https://github.com/eomcs/eomcs-java-project)
 - [멀티쓰레드 싱글턴 대체 enum](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
+- [자바 병렬프로그래밍 쓰레드](<https://jeong-pro.tistory.com/m/156?category=809961>)
 
 ## Spring
 
@@ -97,13 +99,17 @@
 - [개발자로 압박을 덜 받으려면 어떻게 해야하는가?](https://brunch.co.kr/@jowlee/71)
 - [이뤄지는 꿈의특징](https://brunch.co.kr/@skykamja24/229)
 - [병아리개발자 2018 회고](<https://ideveloper2.tistory.com/165>)
+- [후배개발자에게[2019]](<https://brunch.co.kr/@javajigi/4>)
 
 ## Git
 
 - [GitHub로 취업하기](http://sujinlee.me/professional-github/)
 
-
 ## DataBase
+
+[WHERE 절 성능향상 팁](<https://link2me.tistory.com/544>)
+
+
 
 ## Linux
 
@@ -272,6 +278,10 @@
 [생각하라, 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html)
 
 [CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
+
+[캐시가 동작하는 아주 구체적인 원리](<https://parksb.github.io/article/29.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social>)
+
+
 
 
 
