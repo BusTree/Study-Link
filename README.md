@@ -54,6 +54,7 @@
 - [Sails.js](https://sailsjs.com/)
 - [NODEJS로 구현한 서비스를 CAFE24 웹 호스팅에 적용하기](http://www.itpaper.co.kr/nodejs%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-cafe24-%EC%9B%B9-%ED%98%B8%EC%8A%A4%ED%8C%85%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 - [nodejs의 내부 동작 원리](<https://sjh836.tistory.com/149>)
+- [Node.js의 순환 의존성](<https://blog.outsider.ne.kr/1283?category=24>)
 
 ## Java
 
