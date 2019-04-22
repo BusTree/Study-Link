@@ -45,6 +45,7 @@
 - [2019년에는 Vue.js를 배워야 하는 3가지 이유](http://leagueoflegend.tistory.com/49)
 - [프론트앤드 프레임워크 이야기](https://brunch.co.kr/@withfpp/1)
 - [Vuejs로 모바일 웹 구축하기](https://zuminternet.github.io/ZUM-Pilot-vuejs/)
+- [vue.js 정리](<https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md>)
 
 
 ## Node.js
