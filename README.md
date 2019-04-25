@@ -327,5 +327,7 @@
 
 
 
+## 클라우드
 
+- [개발자를 위한 클라우드 기술 트렌드](<https://www.slideshare.net/awskorea/2019-hellot-devcon-beyond-cloud>)
 
