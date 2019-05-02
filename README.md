@@ -225,6 +225,14 @@
 
 - ## [내가 추천하는 크롬 익스텐션 10선](https://jojoldu.tistory.com/406)
 
+- [문서화에 대해 아무도 말해주지 않는 것들](<http://blog.weirdx.io/post/60414>)
+
+- [ 코딩 인터뷰에서 Golang을 사용해야하는 이유](<https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%97%90%EC%84%9C-golang%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8b638ab33068>)
+
+- [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](<https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm>)
+
+- [이해하기 쉬운 코드 작성방법 정리](<https://chodragon9.github.io/blog/easy-code/>)
+
 
 
 ## SEO 최적화
@@ -282,6 +290,10 @@
 [CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
 
 [캐시가 동작하는 아주 구체적인 원리](<https://parksb.github.io/article/29.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social>)
+
+[개발 컨텐츠 공유 서비스 - 파일럿 프로젝트](<https://zuminternet.github.io/ZUM-Pilot-integer/>)
+
+
 
 
 
