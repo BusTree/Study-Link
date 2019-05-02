@@ -330,4 +330,5 @@
 ## 클라우드
 
 - [개발자를 위한 클라우드 기술 트렌드](<https://www.slideshare.net/awskorea/2019-hellot-devcon-beyond-cloud>)
+- [서버리스 Serverless 아키텍처 파헤치기](<https://futurecreator.github.io/2019/03/14/serverless-architecture/>)
 
