@@ -102,6 +102,8 @@
 - [이뤄지는 꿈의특징](https://brunch.co.kr/@skykamja24/229)
 - [병아리개발자 2018 회고](<https://ideveloper2.tistory.com/165>)
 - [후배개발자에게[2019]](<https://brunch.co.kr/@javajigi/4>)
+- [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
+- [변수명 짓기](https://www.curioustore.com/#!/)
 
 ## Git
 
