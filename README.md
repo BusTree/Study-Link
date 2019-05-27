@@ -346,3 +346,6 @@
 - [개발자를 위한 클라우드 기술 트렌드](<https://www.slideshare.net/awskorea/2019-hellot-devcon-beyond-cloud>)
 - [서버리스 Serverless 아키텍처 파헤치기](<https://futurecreator.github.io/2019/03/14/serverless-architecture/>)
 
+## 리펙토링
+
+- [카카오 레거시 리팩토링](<https://chodragon9.github.io/blog/legacy-code-to-easy-code/>)
