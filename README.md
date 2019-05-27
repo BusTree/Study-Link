@@ -349,3 +349,10 @@
 ## 리펙토링
 
 - [카카오 레거시 리팩토링](<https://chodragon9.github.io/blog/legacy-code-to-easy-code/>)
+
+
+
+## 시간관리
+
+- 시간관리법 [빠른 개발을 위한 기술 1편](<https://rinae.dev/posts/the-fine-art-of-fast-development-kr-1>)
+
